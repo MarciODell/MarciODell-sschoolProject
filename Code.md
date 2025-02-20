@@ -7,7 +7,7 @@
 <style>
     {
         background: #B90E0A;
-        color: white;
+        color: red;
     }
     </style>
 </head>
