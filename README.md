@@ -4,12 +4,6 @@
 <head>
 school project
 
-<style>
-    {
-        background: #B90E0A;
-        color: white;
-    }
-    </style>
 </head>
 <h1 style = "background:white">Welcome to the website.</h1>
 
