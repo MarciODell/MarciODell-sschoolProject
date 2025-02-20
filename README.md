@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>school project</title>
+school project
 
 <style>
     {
