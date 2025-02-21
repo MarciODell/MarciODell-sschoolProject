@@ -1,16 +1,21 @@
-# MarciODell-sschoolProject
+MarciODell-sschoolProject
 <!DOCTYPE html>
 <html>
 <head>
-school project
+<title>school project</title>
 
+<style>
+        body {
+                background: rgb(195, 222, 235);
+                font-family: 'Josefin Sans', sans-serif;
+            }
+    </style>
 </head>
-<h1 style = "background:white">Welcome to the website.</h1>
+<h1>Welcome to the website.</h1>
 
 
 <p> what is this website for?
 it is for a school project that I am doing for programming. in which I have to make a website  </p>
-<p></p>
 
 ![Image](https://github.com/user-attachments/assets/dd01f933-4004-4953-b044-4dd79c407aa5)
 
