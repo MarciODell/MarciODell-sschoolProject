@@ -4,12 +4,6 @@ MarciODell-sschoolProject
 <head>
 <title>school project</title>
 
-<style>
-        body {
-                background: rgb(195, 222, 235);
-                font-family: 'Josefin Sans', sans-serif;
-            }
-    </style>
 </head>
 <h1>Welcome to the website.</h1>
 
