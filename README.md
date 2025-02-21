@@ -1,9 +1,7 @@
 
 <!DOCTYPE html>
 <HTML>
-<head>
-<title>school project</title>
-</head>
+
 <h1>Welcome to the website.</h1>
 
 
